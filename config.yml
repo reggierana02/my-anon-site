@@ -1,0 +1,17 @@
+backend:
+  name: github
+  repo: reggierana02/my-anon-site
+  branch: main
+
+media_folder: "static/media"
+public_folder: "/static/media"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Main Page"
+        name: "index"
+        file: "index.htm"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
