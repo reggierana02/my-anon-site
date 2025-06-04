@@ -1,7 +1,8 @@
 backend:
   name: github
-  repo: reggierana02/my-anon-site
-  branch: main
+  repo: reggierana02/my-anon-site  # Подставь сюда свой репозиторий
+  branch: main  # Ветка на GitHub
+  site_domain: your-site-name.netlify.app
 
 media_folder: "static/media"
 public_folder: "/static/media"
