@@ -1,0 +1,44 @@
+Uri: https://kupit-oruzhie-travmat.com/
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\index.htm
+Content Type: text/html
+
+Uri: https://kupit-oruzhie-travmat.com/logo.ico
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\logo.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://kupit-oruzhie-travmat.com/manifest.json
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\manifest.json
+Content Type: application/json
+
+Uri: https://kupit-oruzhie-travmat.com/static/css/main.c68244e2.css
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\static\css\main.c68244e2.css
+Content Type: text/css
+
+Uri: https://kupit-oruzhie-travmat.com/static/js/main.f09d41af.js
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\static\js\main.f09d41af.js
+Content Type: text/javascript
+
+Uri: https://kupit-oruzhie-travmat.com/static/media/firstScreen.848b99d80eb4f76839e4.png
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\static\media\firstScreen.848b99d80eb4f76839e4.png
+Content Type: image/png
+
+Uri: https://kupit-oruzhie-travmat.com/static/media/firstScreen_mobile.15bf1b9133d68b33d860.png
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\static\media\firstScreen_mobile.15bf1b9133d68b33d860.png
+Content Type: image/png
+
+Uri: https://kupit-oruzhie-travmat.com/static/media/Roboto-Bold.f80816a5455d171f948d.ttf
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\static\media\Roboto-Bold.f80816a5455d171f948d.ttf
+Content Type: font/ttf
+
+Uri: https://kupit-oruzhie-travmat.com/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\static\media\Roboto-Medium.7c8d04cd831df3033c8a.ttf
+Content Type: font/ttf
+
+Uri: https://kupit-oruzhie-travmat.com/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\static\media\Roboto-Regular.fc2b5060f7accec5cf74.ttf
+Content Type: font/ttf
+
+Uri: https://kupit-oruzhie-travmat.com/static/media/Trafaret Sherbackoffalex + Lat.0bd0164c59346aa82c16.ttf
+File Name: C:\Downloaded Web Sites\kupit-oruzhie-travmat.com\static\media\Trafaret Sherbackoffalex   Lat.0bd0164c59346aa82c16.ttf
+Content Type: font/ttf
+
